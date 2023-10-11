@@ -1,1 +1,3 @@
 https://Beam-launcher.github.io/index.html
+https://Beam-launcher.github.io/favicon.ico
+https://Beam-launcher.github.io/alphadownload.html
